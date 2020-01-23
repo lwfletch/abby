@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abby/static/css/main.d1b05096.chunk.css",
+    "main.js": "/abby/static/js/main.6fca0688.chunk.js",
+    "main.js.map": "/abby/static/js/main.6fca0688.chunk.js.map",
+    "runtime-main.js": "/abby/static/js/runtime-main.2ba6a7a5.js",
+    "runtime-main.js.map": "/abby/static/js/runtime-main.2ba6a7a5.js.map",
+    "static/js/2.3b122401.chunk.js": "/abby/static/js/2.3b122401.chunk.js",
+    "static/js/2.3b122401.chunk.js.map": "/abby/static/js/2.3b122401.chunk.js.map",
+    "index.html": "/abby/index.html",
+    "precache-manifest.6f0247690e5aaf83050285dceb226f95.js": "/abby/precache-manifest.6f0247690e5aaf83050285dceb226f95.js",
+    "service-worker.js": "/abby/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/abby/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3b122401.chunk.js.LICENSE": "/abby/static/js/2.3b122401.chunk.js.LICENSE",
+    "static/media/logo.svg": "/abby/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba6a7a5.js",
+    "static/js/2.3b122401.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6fca0688.chunk.js"
+  ]
+}
